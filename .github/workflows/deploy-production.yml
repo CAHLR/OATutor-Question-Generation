@@ -32,7 +32,7 @@ jobs:
       - uses: actions/setup-node@v2.4.1
 
       - name: Change homepage in package.json
-        run: sed -i 's/place-holder/OATutor-GPT-Study/g' package.json
+        run: sed -i 's/place-holder/OATutor-Question-Generation/g' package.json
 
       - name: Cache node modules
         uses: actions/cache@v2
@@ -73,5 +73,5 @@ jobs:
           git config --local user.email "${{ env.git_email }}"
           git config --local user.name "${{ env.git_name }}"
           git diff --cached --quiet --exit-code && echo "no changes to platform, exiting early" && exit 0
-          git commit -m "deploy commit: CAHLR/OATutor-GPT-Study@$GITHUB_SHA"
+          git commit -m "deploy commit: CAHLR/OATutor-Question-Generation@$GITHUB_SHA"
           git push
