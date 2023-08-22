@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/OATutor-GPT-Study/static/css/main.327544e4.css",
-    "main.js": "/OATutor-GPT-Study/static/js/main.c69aee6b.js",
-    "static/media/Symbola.svg": "/OATutor-GPT-Study/static/media/Symbola.f647c9292a2da02d9ae8.svg",
-    "static/media/Symbola.eot": "/OATutor-GPT-Study/static/media/Symbola.d25fbd520f6558203fb4.eot",
-    "static/media/Symbola.ttf": "/OATutor-GPT-Study/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
-    "static/media/Symbola.woff": "/OATutor-GPT-Study/static/media/Symbola.353fd9bde3c87711f5fc.woff",
-    "static/media/Symbola.woff2": "/OATutor-GPT-Study/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
-    "index.html": "/OATutor-GPT-Study/index.html",
-    "main.327544e4.css.map": "/OATutor-GPT-Study/static/css/main.327544e4.css.map",
-    "main.c69aee6b.js.map": "/OATutor-GPT-Study/static/js/main.c69aee6b.js.map"
+    "main.css": "/OATutor-Question-Generation/static/css/main.50132a1d.css",
+    "main.js": "/OATutor-Question-Generation/static/js/main.e3021571.js",
+    "static/media/Symbola.svg": "/OATutor-Question-Generation/static/media/Symbola.f647c9292a2da02d9ae8.svg",
+    "static/media/Symbola.eot": "/OATutor-Question-Generation/static/media/Symbola.d25fbd520f6558203fb4.eot",
+    "static/media/Symbola.ttf": "/OATutor-Question-Generation/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
+    "static/media/Symbola.woff": "/OATutor-Question-Generation/static/media/Symbola.353fd9bde3c87711f5fc.woff",
+    "static/media/Symbola.woff2": "/OATutor-Question-Generation/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
+    "index.html": "/OATutor-Question-Generation/index.html",
+    "main.50132a1d.css.map": "/OATutor-Question-Generation/static/css/main.50132a1d.css.map",
+    "main.e3021571.js.map": "/OATutor-Question-Generation/static/js/main.e3021571.js.map"
   },
   "entrypoints": [
-    "static/css/main.327544e4.css",
-    "static/js/main.c69aee6b.js"
+    "static/css/main.50132a1d.css",
+    "static/js/main.e3021571.js"
   ]
 }
