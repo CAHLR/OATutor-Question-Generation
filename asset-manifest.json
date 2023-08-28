@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/OATutor-Question-Generation/static/css/main.50132a1d.css",
-    "main.js": "/OATutor-Question-Generation/static/js/main.0095f92a.js",
+    "main.js": "/OATutor-Question-Generation/static/js/main.e7369052.js",
     "static/media/Symbola.svg": "/OATutor-Question-Generation/static/media/Symbola.f647c9292a2da02d9ae8.svg",
     "static/media/Symbola.eot": "/OATutor-Question-Generation/static/media/Symbola.d25fbd520f6558203fb4.eot",
     "static/media/Symbola.ttf": "/OATutor-Question-Generation/static/media/Symbola.1ac5fa7f9b82ed4ce3f3.ttf",
@@ -9,10 +9,10 @@
     "static/media/Symbola.woff2": "/OATutor-Question-Generation/static/media/Symbola.080d8bb6a36e8bd8966b.woff2",
     "index.html": "/OATutor-Question-Generation/index.html",
     "main.50132a1d.css.map": "/OATutor-Question-Generation/static/css/main.50132a1d.css.map",
-    "main.0095f92a.js.map": "/OATutor-Question-Generation/static/js/main.0095f92a.js.map"
+    "main.e7369052.js.map": "/OATutor-Question-Generation/static/js/main.e7369052.js.map"
   },
   "entrypoints": [
     "static/css/main.50132a1d.css",
-    "static/js/main.0095f92a.js"
+    "static/js/main.e7369052.js"
   ]
 }
