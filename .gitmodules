@@ -1,3 +1,6 @@
 [submodule "src/content-sources/new"]
 	path = src/content-sources/oatutor
 	url = git@github.com:CAHLR/OATutor-Content.git
+[submodule "src/content-sources/newsubmod"]
+	path = src/content-sources/oatutor
+	url = git@github.com:CAHLR/OATutor-Content.git
