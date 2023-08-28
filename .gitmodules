@@ -7,3 +7,6 @@
 [submodule "src/content-sources/oatutorcontent"]
 	path = src/content-sources/oatutor
 	url = git@github.com:CAHLR/OATutor-Content.git
+[submodule "src/content-sources/oatutorcon"]
+	path = src/content-sources/oatutor
+	url = git@github.com:CAHLR/OATutor-Content.git
